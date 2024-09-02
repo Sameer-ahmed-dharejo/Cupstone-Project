@@ -1,0 +1,31 @@
+.planning {
+    font-size: 300px !important;
+}
+
+.text-color {
+    color: #B2B2B2 !important;
+}
+
+@media (min-width:1280px){
+    .ark {
+        font-size: 95px !important;
+    }
+}
+
+@media (min-width:820px) and (max-width:1180px) {
+    .ark {
+        font-size: 62px !important;
+    }
+}
+
+@media (min-width:390px) and (max-width:844px) {
+    .ark {
+        font-size: 37px !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .response {
+        font-size: 250px !important;
+    }
+}
